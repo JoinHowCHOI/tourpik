@@ -12,7 +12,7 @@ class Newcont extends BaseController
         echo 'asd<br />';
         echo 'asd<br />';
         echo 'asd<br />';
-        echo 'asd<br />';
+        echo 'asd123123<br />';
         echo 'asdsfdsdg1222';
     }
 }
