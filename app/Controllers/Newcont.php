@@ -6,6 +6,7 @@ class Newcont extends BaseController
 {
     public function index()
     {
-        echo 'asd';
+        echo 'asd<br />';
+        echo 'asdsfdsdg';
     }
 }
